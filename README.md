@@ -1,5 +1,6 @@
-<h1> Teste Final </h1>
+<h1> Exercício Front-end </h1>
 
 ### Descrição
-<p>Último exercício realizado no Coding Tank da ADA com a Sinqia em Java. </p>
+<p>Primeiro exercício de Front-end do Bootcamp Pessoa Desenvolvedora Java Full Stack Jr. proposto pela Generation Brasil.</p>
+<p>Foi utilizado HTML simples.</p>
 
