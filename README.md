@@ -2,5 +2,5 @@
 
 ### Descrição
 <p>Primeiro exercício de Front-end do Bootcamp Pessoa Desenvolvedora Java Full Stack Jr. proposto pela Generation Brasil.</p>
-<p>Foi utilizado HTML puro.</p>
+<p>Foi utilizado HTML e CSS.</p>
 
